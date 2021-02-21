@@ -12,10 +12,6 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [ArXiv](http://arxiv.org/help/bulk_data_s3): All the Papers on archive as fulltext (270 GB) + sourcefiles (190 GB).
 
-*   [ASAP Automated Essay Scoring [Kaggle]](https://www.kaggle.com/c/asap-aes/data): For this competition, there are eight essay sets. Each of the sets of essays was generated from a single prompt. Selected essays range from an average length of 150 to 550 words per response. Some of the essays are dependent upon source information and others are not. All responses were written by students ranging in grade levels from Grade 7 to Grade 10. All essays were hand graded and were double-scored. (100 MB)
-
-*   [ASAP Short Answer Scoring [Kaggle]](https://www.kaggle.com/c/asap-sas/data): Each of the data sets was generated from a single prompt. Selected responses have an average length of 50 words per response. Some of the essays are dependent upon source information and others are not. All responses were written by students primarily in Grade 10. All responses were hand graded and were double-scored. (35 MB)
-
 *   [Classification of political social media](https://www.crowdflower.com/data-for-everyone/): Social media messages from politicians classified by content. (4 MB)
 
 *   [CLiPS Stylometry Investigation (CSI) Corpus](http://www.clips.uantwerpen.be/datasets/csi-corpus): a yearly expanded corpus of student texts in two genres: essays and reviews. The purpose of this corpus lies primarily in stylometric research, but other applications are possible. (on request)
@@ -30,7 +26,7 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [Corporate messaging](http://aws.amazon.com/de/datasets/common-crawl-corpus/): A data categorization job concerning what corporations actually talk about on social media. Contributors were asked to classify statements as information (objective statements about the company or it’s activities), dialog (replies to users, etc.), or action (messages that ask for votes or ask users to click on links, etc.). (600 KB)
 
-*   [Crosswikis](http://nlp.stanford.edu/data/crosswikis-data.tar.bz2/): English-phrase-to-associated-Wikipedia-article database. Paper. (11 GB) 
+*   [Crosswikis](http://nlp.stanford.edu/data/crosswikis-data.tar.bz2/): English-phrase-to-associated-Wikipedia-article database. Paper. (11 GB)
 
 *   [DBpedia](http://aws.amazon.com/de/datasets/dbpedia-3-5-1/?tag=datasets%23keywords%23encyclopedic): a community effort to extract structured information from Wikipedia and to make this information available on the Web (17 GB)
 
@@ -38,9 +34,13 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [Del.icio.us](http://arvindn.livejournal.com/116137.html): 1.25 million bookmarks on delicious.com (170 MB)
 
+*   [Diplomacy](https://go.umd.edu/diplomacy_data): 17,000 conversational messages from 12 games of Diplomacy, annotated for truthfulness (3 MB)
+
 *   [Disasters on social media](https://www.crowdflower.com/data-for-everyone/): 10,000 tweets with annotations whether the tweet referred to a disaster event (2 MB).
 
 *   [Economic News Article Tone and Relevance](https://www.crowdflower.com/data-for-everyone/): News articles judged if relevant to the US economy and, if so, what the tone of the article was. Dates range from 1951 to 2014. (12 MB)
+
+*   [Elsevier OA CC-BY Corpus](https://data.mendeley.com/datasets/zm33cdndxs/2): 40k (40,001) Open Access full-text scientific articles with complete metadata include subject classifications (963Mb)
 
 *   [Enron Email Data](http://aws.amazon.com/de/datasets/enron-email-data/): consists of 1,227,255 emails with 493,384 attachments covering 151 custodians (210 GB)
 
@@ -52,7 +52,7 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [Flickr Personal Taxonomies](http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html): Tree dataset of personal tags (40 MB)
 
-*   [Freebase Data Dump](http://aws.amazon.com/de/datasets/freebase-data-dump/): data dump of all the current facts and assertions in Freebase (26 GB) 
+*   [Freebase Data Dump](http://aws.amazon.com/de/datasets/freebase-data-dump/): data dump of all the current facts and assertions in Freebase (26 GB)
 
 *   [Freebase Simple Topic Dump](http://aws.amazon.com/de/datasets/freebase-simple-topic-dump/): data dump of the basic identifying facts about every topic in Freebase (5 GB)
 
@@ -94,8 +94,6 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [Millions of News Article URLs](https://datadryad.org/resource/doi:10.5061/dryad.p8s0j): 2.3 million URLs for news articles from the frontpage of over 950 English-language news outlets in the six month period between October 2014 and April 2015. (101MB)
 
-*   [MCTest](http://research.microsoft.com/en-us/um/redmond/projects/mctest/index.html): a freely available set of 660 stories and associated questions intended for research on the machine comprehension of text; for question answering (1 MB)
-
 *   [News Headlines of India - Times of India [Kaggle]](https://www.kaggle.com/therohk/india-headlines-news-dataset): 2.7 Million News Headlines with category published by Times of India from 2001 to 2017. (185 MB)
 
 *   [News article / Wikipedia page pairings](https://www.crowdflower.com/data-for-everyone/): Contributors read a short article and were asked which of two Wikipedia articles it matched most closely. (6 MB)
@@ -120,7 +118,7 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 
 *   [Reuters Corpus](http://trec.nist.gov/data/reuters/reuters.html): a large collection of Reuters News stories for use in research and development of natural language processing, information retrieval, and machine learning systems. This corpus, known as "Reuters Corpus, Volume 1" or RCV1, is significantly larger than the older, well-known Reuters-21578 collection heavily used in the text classification community. Need to sign agreement and sent per post to obtain. (2.5 GB)
 
-*   [SMS Spam Collection](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/): 5,574 English, real and non-enconded SMS messages, tagged according being legitimate (ham) or spam.  (200 KB) 
+*   [SMS Spam Collection](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/): 5,574 English, real and non-enconded SMS messages, tagged according being legitimate (ham) or spam.  (200 KB)
 
 *   [SouthparkData](https://github.com/BobAdamsEE/SouthParkData): .csv files containing script information including: season, episode, character, & line. (3.6 MB)
 
@@ -214,4 +212,3 @@ Alphabetical list of free/public domain datasets with text data for use in Natur
 *   [Ten Thousand German News Articles Dataset](https://tblock.github.io/10kGNAD/): 10273 german language news articles categorized into nine classes for topic classification. (26.1 MB)
 
 *   [100k German Court Decisions](http://openlegaldata.io/research/2019/02/19/court-decision-dataset.html): Open Legal Data releases a dataset of 100,000 German court decisions and 444,000 citations (772 MB)
-
